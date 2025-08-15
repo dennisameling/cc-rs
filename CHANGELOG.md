@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.33](https://github.com/dennisameling/cc-rs/compare/cc-v1.2.32...cc-v1.2.33) - 2025-08-15
+
+### Other
+
+- [win][arm64ec] Fix finding assembler and setting is_arm for Arm64EC ([#1511](https://github.com/dennisameling/cc-rs/pull/1511))
+
 ## [1.2.32](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.31...cc-v1.2.32) - 2025-08-08
 
 ### Fixed
